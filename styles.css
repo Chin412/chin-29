@@ -1,13 +1,13 @@
-.8_23 { 
+.a1 { 
 	overflow:hidden;
 }
-.e8_23 { 
+.a1 { 
 	background-color:rgba(115.81250354647636, 115.81250354647636, 115.81250354647636, 1);
 	width:1680px;
 	height:3000px;
 	position:absolute;
 }
-.e8_24 { 
+.a-index { 
 	background-color:rgba(255, 255, 255, 1);
 	width:1680px;
 	height:180px;
@@ -15,7 +15,7 @@
 	left:0px;
 	top:0px;
 }
-.e8_25 { 
+.img1 { 
 	width:148px;
 	height:147px;
 	position:absolute;
@@ -25,7 +25,7 @@
 	background-repeat:no-repeat;
 	background-size:cover;
 }
-.e8_27 { 
+.bg { 
 	background-color:rgba(217.0000022649765, 217.0000022649765, 217.0000022649765, 1);
 	width:268px;
 	height:177px;
@@ -33,7 +33,7 @@
 	left:1412px;
 	top:2px;
 }
-.e8_38 { 
+.b1 { 
 	background-color:rgba(255, 255, 255, 1);
 	width:1680px;
 	height:960px;
@@ -41,17 +41,17 @@
 	left:0px;
 	top:1168px;
 }
-.e8_39 { 
+.b2 { 
 	width:840px;
 	height:960px;
 	position:absolute;
 	left:0px;
 	top:0px;
 }
-.i8_39_0_447 { 
+.main { 
 	border:1px solid rgba(0, 0, 0, 1);
 }
-.ei8_39_0_447 { 
+.main { 
 	width:840px;
 	height:960px;
 	position:absolute;
@@ -61,14 +61,14 @@
 	background-repeat:no-repeat;
 	background-size:cover;
 }
-.e8_40 { 
+.b-all { 
 	width:920px;
 	height:960px;
 	position:absolute;
 	left:840px;
 	top:0px;
 }
-.e8_41 { 
+.b-spec { 
 	background-color:rgba(115.81250354647636, 115.81250354647636, 115.81250354647636, 1);
 	width:840px;
 	height:960px;
@@ -76,7 +76,7 @@
 	left:0px;
 	top:0px;
 }
-.e9_127 { 
+.age{ 
 	color:rgba(255, 255, 255, 1);
 	width:776px;
 	height:160px;
@@ -89,7 +89,7 @@
 	letter-spacing:-1.5;
 	line-height:px;
 }
-.e9_128 { 
+.ig { 
 	color:rgba(255, 255, 255, 1);
 	width:686px;
 	height:160px;
@@ -102,7 +102,7 @@
 	letter-spacing:-1.5;
 	line-height:px;
 }
-.e9_132 { 
+.tw { 
 	color:rgba(255, 255, 255, 1);
 	width:686px;
 	height:160px;
@@ -115,7 +115,7 @@
 	letter-spacing:-1.5;
 	line-height:px;
 }
-.e9_134 { 
+.num { 
 	color:rgba(255, 255, 255, 1);
 	width:686px;
 	height:160px;
@@ -128,7 +128,7 @@
 	letter-spacing:-1.5;
 	line-height:px;
 }
-.e9_130 { 
+.b-spec1 { 
 	width:184px;
 	height:178px;
 	position:absolute;
@@ -138,7 +138,7 @@
 	background-repeat:no-repeat;
 	background-size:cover;
 }
-.e9_131 { 
+.b-spec2 { 
 	width:210px;
 	height:210px;
 	position:absolute;
@@ -152,7 +152,7 @@
 	background-repeat:no-repeat;
 	background-size:cover;
 }
-.e9_133 { 
+.b-spec3 { 
 	width:129px;
 	height:168px;
 	position:absolute;
@@ -162,7 +162,7 @@
 	background-repeat:no-repeat;
 	background-size:cover;
 }
-.e8_28 { 
+.b28 { 
 	background-color:rgba(255, 255, 255, 1);
 	width:1680px;
 	height:960px;
@@ -170,17 +170,17 @@
 	left:0px;
 	top:178px;
 }
-.e8_29 { 
+.b29 { 
 	width:840px;
 	height:960px;
 	position:absolute;
 	left:840px;
 	top:0px;
 }
-.8_30 { 
-	border:1px solid rgba(0, 0, 0, 1);
+.abc { 
+	border:2px solid rgba(0, 0, 0, 1);
 }
-.e8_30 { 
+.abc { 
 	width:840px;
 	height:960px;
 	position:absolute;
@@ -190,14 +190,14 @@
 	background-repeat:no-repeat;
 	background-size:cover;
 }
-.e8_31 { 
+.c1 { 
 	width:908px;
 	height:960px;
 	position:absolute;
 	left:0px;
 	top:0px;
 }
-.e8_32 { 
+.c2 { 
 	background-color:rgba(115.81250354647636, 115.81250354647636, 115.81250354647636, 1);
 	width:840px;
 	height:960px;
@@ -205,14 +205,14 @@
 	left:0px;
 	top:0px;
 }
-.e9_137 { 
+.name1 { 
 	width:881px;
 	height:144px;
 	position:absolute;
 	left:27px;
 	top:177px;
 }
-.ei9_137_8_34 { 
+.nname { 
 	color:rgba(255, 255, 255, 1);
 	width:976.0349731445312px;
 	height:353.70001220703125px;
@@ -225,21 +225,21 @@
 	letter-spacing:-1.5;
 	line-height:px;
 }
-.e9_141 { 
+.name2 { 
 	width:881px;
 	height:144px;
 	position:absolute;
 	left:27px;
 	top:387px;
 }
-.e8_33 { 
+.c-spec { 
 	width:686px;
 	height:160px;
 	position:absolute;
 	left:27px;
 	top:531px;
 }
-.e8_34 { 
+.name3 { 
 	color:rgba(255, 255, 255, 1);
 	width:760px;
 	height:393px;
@@ -252,14 +252,14 @@
 	letter-spacing:-1.5;
 	line-height:px;
 }
-.e9_154 { 
+.c-spec2 { 
 	width:790px;
 	height:131px;
 	position:absolute;
 	left:57px;
 	top:386px;
 }
-.ei9_154_8_34 { 
+.dot { 
 	color:rgba(255, 255, 255, 1);
 	width:875.2186889648438px;
 	height:321.76873779296875px;
@@ -272,7 +272,7 @@
 	letter-spacing:-1.5;
 	line-height:px;
 }
-.e9_156 { 
+.c-spec3 { 
 	width:1680px;
 	height:809px;
 	position:absolute;
