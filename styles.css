@@ -90,6 +90,16 @@
 	top: 0px;
 }
 
+.img1 {
+	width: 148px;
+	height: 147px;
+	position: absolute;
+	left: 29px;
+	top: 7px;
+	background-image: url(images/1_1.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
 
 .bg {
 	background-color: rgba(217.0000022649765, 217.0000022649765, 217.0000022649765, 1);
